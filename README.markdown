@@ -1,6 +1,6 @@
 #rossettacode-js-regression
 
-This is the JavaScript implementation from [rosettacode.org](http://rosettacode.org) of [multiple regression](http://rosettacode.org/wiki/Multiple_regression).
+This is the [JavaScript implementation](http://rosettacode.org/wiki/Multiple_regression#JavaScript) from [rosettacode.org](http://rosettacode.org) of multiple regression.
 
 #License
 
